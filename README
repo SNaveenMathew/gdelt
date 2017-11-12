@@ -1,0 +1,3 @@
+gdeltr: https://github.com/ahalterman/gdeltr
+
+The gdelt package in R is very old. It uses functions from packages that are no longer available in CRAN. This package is just the modified version of gdeltr with the right set of active packages.
